@@ -19,7 +19,7 @@ Program to implement the linear regression using gradient descent.
 Developed by: Karthikeyan R
 RegisterNumber: 212222240045
 */
-``
+```
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -114,8 +114,7 @@ print("For population = 35,000, we predict a profit of $"+str(round(predict1,0))
 
 predict2 = predict(np.array([1,7]),theta)*10000
 print("For population = 70,000, we predict a profit of $"+str(round(predict2,0)))
-
-*/
+```
 ## Output
 ![ml3](https://user-images.githubusercontent.com/119421232/232798891-6ec055bc-9a73-415c-952c-e684eba396e3.png)
 
